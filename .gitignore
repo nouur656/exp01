@@ -1,0 +1,22 @@
+# Dépendances Node
+node_modules/
+
+# Variables d'environnement
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Fichiers de build React
+client/build/
+
+# Fichiers temporaires
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+dist/
